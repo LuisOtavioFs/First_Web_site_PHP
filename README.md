@@ -1,4 +1,4 @@
-# Fist Web Site Wich the PHP
+# First Web Site Wich the PHP
 
 Esse Site foi desenvolvido ao final de 2018
 estava no final do 1 ano do medio de ensino integrado
