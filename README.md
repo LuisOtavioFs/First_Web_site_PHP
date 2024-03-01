@@ -12,3 +12,12 @@ acharam muito complicado adcionar e retirar as tarefas do site.
 
 Por isso nao foi totalmente desenvolvido e nem adicionado permissões de login
 como administrador, alunos e professores
+
+Mas tenho grande satisfação e orgulho de pelo menos ter tentado algo diferente
+e principalmente de ter me desafiado a aprender mais sobre PHP
+
+# Dificuldades
+
+Tive grandes dificuldades para aprender de computador que mal rodava o servidor
+a erros na hora de programar e de planejar, erros esees que me custaram horas
+ate dias, mas foi graças a isso que gostei ainda mais da linguagem e da profissao
