@@ -1,0 +1,39 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+section {
+    margin: 50px auto;
+    width: 1025px;
+    height: 150px;
+}
+
+.rede {
+    width: 60px;
+    height: 60px;
+    float: left;
+    margin-left: 10px;
+    transition: all 0.3s ease-out;
+    border-radius: 50%;
+}
+
+.rede:hover {
+    cursor: pointer;
+    transform: translateY(-5px);
+    box-shadow: 2px 9px 7px 0px rgba(50, 50, 50, 0.45);
+}
+
+.rede#facebook {
+    background-color: #0000CD;
+}
+
+.rede#instagram {
+    background-color: #2372a3;
+}
+
+.icone {
+    margin: 0px auto;
+    padding: 15px;
+    width: 30px;
+}
