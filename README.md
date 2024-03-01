@@ -8,6 +8,7 @@ acessar o site atravez de um login e ver ou rever prazos
 e conteúdo das tarefas passadas em sala de aula.
 
 Porem projeto nao foi para frente pois os representantes
-acharam muito complicado adcionar e retirar as tarefas do site
-nao foi totalmente desenvolvido e nem adicionado perfisoes de login
-como administrador e alunos
+acharam muito complicado adcionar e retirar as tarefas do site.
+
+Por isso nao foi totalmente desenvolvido e nem adicionado permissões de login
+como administrador, alunos e professores
