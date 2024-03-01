@@ -1,6 +1,6 @@
 # Fist Web Site Wich the PHP
 
-Esse Site foi desenvolvido por ao final de 2018
+Esse Site foi desenvolvido ao final de 2018
 estava no final do 1 ano do medio de ensino integrado
 
 tratase de um site que alunos do 1 e 3 ano conseguissem
